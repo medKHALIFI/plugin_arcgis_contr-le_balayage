@@ -1,0 +1,10 @@
+C:\reussite\stage\amendis\projet\formation\formation\bin\Debug\formation.dll
+C:\reussite\stage\amendis\projet\formation\formation\bin\Debug\formation.pdb
+C:\reussite\stage\amendis\projet\formation\formation\bin\Debug\formation.xml
+C:\reussite\stage\amendis\projet\formation\formation\bin\Debug\formation.tlb
+C:\reussite\stage\amendis\projet\formation\formation\obj\Debug\formation.Resources.resources
+C:\reussite\stage\amendis\projet\formation\formation\obj\Debug\formation.vbproj.GenerateResource.Cache
+C:\reussite\stage\amendis\projet\formation\formation\obj\Debug\formation.dll
+C:\reussite\stage\amendis\projet\formation\formation\obj\Debug\formation.xml
+C:\reussite\stage\amendis\projet\formation\formation\obj\Debug\formation.pdb
+C:\reussite\stage\amendis\projet\formation\formation\obj\Debug\formation.formationVeiwer.resources

@@ -1,0 +1,8 @@
+C:\reussite\stage\amendis\projet\Controle_balayage\Controle_balayage\bin\Debug\Controle_balayage.dll
+C:\reussite\stage\amendis\projet\Controle_balayage\Controle_balayage\bin\Debug\Controle_balayage.pdb
+C:\reussite\stage\amendis\projet\Controle_balayage\Controle_balayage\bin\Debug\Controle_balayage.tlb
+C:\reussite\stage\amendis\projet\Controle_balayage\Controle_balayage\obj\Debug\Controle_balayage.csprojResolveAssemblyReference.cache
+C:\reussite\stage\amendis\projet\Controle_balayage\Controle_balayage\obj\Debug\Controle_balayage.dll
+C:\reussite\stage\amendis\projet\Controle_balayage\Controle_balayage\obj\Debug\Controle_balayage.pdb
+C:\reussite\stage\amendis\projet\Controle_balayage\Controle_balayage\obj\Debug\Controle_balayage.FormControle_balayage.resources
+C:\reussite\stage\amendis\projet\Controle_balayage\Controle_balayage\obj\Debug\Controle_balayage.csproj.GenerateResource.Cache

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+stage
+</name>
+</assembly>
+<members>
+<member name="M:stage.ArcGISMenu1.ArcGISCategoryRegistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category registration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="M:stage.ArcGISMenu1.ArcGISCategoryUnregistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category unregistration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="M:stage.ControleBalayageToolbar1.ArcGISCategoryRegistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category registration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="M:stage.ControleBalayageToolbar1.ArcGISCategoryUnregistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category unregistration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="P:stage.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:stage.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:stage.My.Resources.Resources._207">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:stage.My.Resources.Resources._31776586_blanc_image_de_fond_gris_afflig_ponge_grunge_vintage_texture_sch_ma_de_configuration_Banque_d_images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:stage.My.Resources.Resources.Download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:stage.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:stage.My.Resources.Resources.téléchargement">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:stage.My.Resources.Resources.téléchargement1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:stage.My.Resources.Resources.text_logo_2x">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:stage.My.Resources.Resources.White_map_Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:stage.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

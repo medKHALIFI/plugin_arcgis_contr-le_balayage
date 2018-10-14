@@ -1,0 +1,8 @@
+C:\reussite\stage\amendis\projet\versioncs\versioncs\obj\Debug\versioncs.csprojResolveAssemblyReference.cache
+C:\reussite\stage\amendis\projet\versioncs\versioncs\obj\Debug\versioncs.Form1.resources
+C:\reussite\stage\amendis\projet\versioncs\versioncs\obj\Debug\versioncs.csproj.GenerateResource.Cache
+C:\reussite\stage\amendis\projet\versioncs\versioncs\bin\Debug\versioncs.dll
+C:\reussite\stage\amendis\projet\versioncs\versioncs\bin\Debug\versioncs.pdb
+C:\reussite\stage\amendis\projet\versioncs\versioncs\obj\Debug\versioncs.dll
+C:\reussite\stage\amendis\projet\versioncs\versioncs\obj\Debug\versioncs.pdb
+C:\reussite\stage\amendis\projet\versioncs\versioncs\bin\Debug\versioncs.tlb

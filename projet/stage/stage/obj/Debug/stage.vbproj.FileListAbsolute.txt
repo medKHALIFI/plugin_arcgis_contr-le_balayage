@@ -1,0 +1,25 @@
+C:\reussite\stage\amendis\projet\stage\stage\bin\Debug\stage.dll
+C:\reussite\stage\amendis\projet\stage\stage\bin\Debug\stage.pdb
+C:\reussite\stage\amendis\projet\stage\stage\bin\Debug\stage.xml
+C:\reussite\stage\amendis\projet\stage\stage\bin\Debug\stage.tlb
+C:\reussite\stage\amendis\projet\stage\stage\obj\Debug\stage.Resources.resources
+C:\reussite\stage\amendis\projet\stage\stage\obj\Debug\stage.vbproj.GenerateResource.Cache
+C:\reussite\stage\amendis\projet\stage\stage\obj\Debug\stage.dll
+C:\reussite\stage\amendis\projet\stage\stage\obj\Debug\stage.xml
+C:\reussite\stage\amendis\projet\stage\stage\obj\Debug\stage.pdb
+C:\reussite\stage\amendis\projet\stage\stage\obj\Debug\stage.frmControleViewer.resources
+C:\reussite\stage\amendis\projet\stage\stage\obj\Debug\stage.frmEditCorbeille.resources
+C:\reussite\stage\amendis\projet\stage\stage\obj\Debug\stage.frmControleSecteur.resources
+C:\reussite\stage Amendis\amendis\projet\stage\stage\bin\Debug\stage.dll
+C:\reussite\stage Amendis\amendis\projet\stage\stage\bin\Debug\stage.pdb
+C:\reussite\stage Amendis\amendis\projet\stage\stage\bin\Debug\stage.xml
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.frmControleSecteur.resources
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.frmControleViewer.resources
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.frmEditCorbeille.resources
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.Resources.resources
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.vbproj.GenerateResource.Cache
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.dll
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.xml
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.pdb
+C:\reussite\stage Amendis\amendis\projet\stage\stage\bin\Debug\stage.tlb
+C:\reussite\stage Amendis\amendis\projet\stage\stage\obj\Debug\stage.vbprojResolveAssemblyReference.cache
